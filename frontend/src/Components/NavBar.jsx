@@ -17,8 +17,8 @@ import { Link, useNavigate } from 'react-router-dom';
 import "./NavBar.css";
 
 const pages = [
-  { name: 'Feeds', path: '/' },
-  { name: 'My Recipes', path: '/myrecipes' },
+  { name: 'Home', path: '/' },
+  { name: 'Recipes', path: '/recipes' },
   { name: 'About', path: '/about' },
 ];
 const settings = ['My Profile', 'Logout'];

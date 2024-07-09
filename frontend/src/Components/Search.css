@@ -1,0 +1,7 @@
+/* .searchBar{
+    width: 70%;
+    margin: 20px auto;
+} */
+.MuiInputBase-inputAdornedEnd:focus {
+    border-color: #8b0000cf !important;
+}
